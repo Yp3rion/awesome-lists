@@ -84,3 +84,51 @@
    Grades:
    
    * Fulvio: 9/10
+
+## Emagg
+
+* **Full Metal Panic!** (24 episodes, finished)
+   <details>
+    <summary>Synopsis</summary> 
+
+    Sosuke Sagara is a young man who is part of a private military organization called Mithril. His main task is to protect Kaname Chidori, a common high school girl
+    that isn't aware of being a "Whispered".
+    Whispered are particular kind of people in posses of a secret knowledge named "Black Technology", which is used in military field to build stronger weapons.
+    The events take place in a parallel historical period in which cold war never ended and many nations are in permanent fight.
+    The plot is split between stories focusing on Sousuke's mission as a soldier of Mithril and comedic side stories centered on his life at Kaname's High School. 
+   </details>  
+   <details>
+    <summary>Comments/Reviews (spoilers)</summary> 
+    Strongly reccomended if you like mecha battles with a really simple, easy to follow, plot that is full of classic old fashioned anime comedic scenes
+   </details>
+   Grades:
+   
+   * Emagg: 8/10
+
+* **Full Metal Panic: The second raid** (13 episodes, finished)
+   <details>
+    <summary>Synopsis</summary> 
+
+    Full metal panic sequel
+    
+   </details>  
+   <details>
+    <summary>Comments/Reviews (spoilers)</summary> 
+   </details>
+   Grades:
+   
+   * Emagg: 8/10
+
+* **Full Metal Panic! Invisible Victory** (12 episodes, finished)
+   <details>
+    <summary>Synopsis</summary> 
+
+    After thirteen years the third part of the anime, the plot continues but with better drawings and more battles!
+
+   </details>  
+   <details>
+    <summary>Comments/Reviews (spoilers)</summary> 
+   </details>
+   Grades:
+   
+   * Emagg: 9/10
