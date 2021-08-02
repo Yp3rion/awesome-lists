@@ -44,6 +44,7 @@
 * **Psycho-Pass** (22 episodes, finished)
    <details>
     <summary>Synopsis</summary> 
+    In a dystopian version of Japan where peace is maintained with the help of the so-called "Sybil System", an advanced mass surveillance system which is able to identify "criminal tendencies" in people with seemingly perfect accuracy, the young, loyal, idealistic Inspector Akane Tsunemori is tasked with the role of leading her team of Enforcers in seeking and punishing those deemed unworthy by Sybil itself. Little does she know that her absolute faith in the system is going to be shaken to the foundation by a terrorist obsessed with free will and invisible to the all-seeing Sybil...
    </details>  
    <details>
     <summary>Comments/Reviews (spoilers)</summary> 
@@ -55,9 +56,13 @@
 * **Fate/stay night** (24 episodes, finished)
    <details>
     <summary>Synopsis</summary> 
+    In a world where the magic arts (Magecraft, or Thaumaturgy) exist side by side with science, an event called "Holy Grail War" is periodically held; this event consists in seven chosen mages, the "Masters", summoning each a "Servant" (powerful magical entities embodying legendary characters) and battling with each other until only one pair remains. The winners receive the miracolous Grail, which allows both the Master and his Servant to fulfill a wish. The protagonist of Fate/stay night, Shirou Emiya, is an orphan boy who was saved from death by his adoptive father in the aftermath of the previous Holy Grail War (the fourth) and has since then developed the ideal of becoming a "Hero of Justice", able to "protect everyone". His skills and ideals are put to the test when he gets unwillingly involved in the Fifth Holy Grail War and becomes the Master of a very particular Servant...
    </details>  
    <details>
     <summary>Comments/Reviews (spoilers)</summary> 
+    
+    * Fulvio:  
+   Quite poorly made, messy adaptation of the original Fate/stay night visual novel, mixing the stories from all three routes without really making justice to any of them. Still worth watching for the sake of completeness, since it is the series that currently explores the "Fate" route the most; in case, it is recommended to watch it before the other installments of the series, in order to suffer a bit less the difference in quality. Another "meh" thing, which is 
    </details>
    Grades:
    
