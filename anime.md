@@ -137,3 +137,22 @@
    Grades:
    
    * Emagg: 9/10
+
+## ulla
+
+* **Neon Genesis Evangelion** (26 episodes, finished)
+   <details>
+    <summary>Synopsis</summary> 
+
+    first/mid episodes: Ah ok, classic mecha fighting anime. There is something weird to it though...
+
+    last episodes: Did someone spike my beer with LSD?
+
+   </details>  
+   <details>
+    <summary>Comments/Reviews (spoilers)</summary> 
+   </details>
+   Grades:
+   
+   * Lorenzo: 8/10
+
